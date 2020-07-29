@@ -14,4 +14,4 @@ Steps:
 8: Click the slider/turn on or off
 There you go. you got a theme in discord.
 ___________________________
-Releases Link: https://github.com/Krid3D/Eevee.theme/releases/tag/v1.0-beta
+Current Version Link: https://github.com/Krid3D/Eevee.theme/releases/tag/v1.0-beta
