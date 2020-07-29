@@ -3,6 +3,7 @@
 Requirements: BetterDiscord/Bandaged
 
 Steps: 
+0: Download the theme
 1: Open Bandaged
 2: Click install BetterDiscord
 3: After when done installing restart discord (Bandaged will auto restart discord)
